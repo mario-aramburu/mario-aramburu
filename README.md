@@ -8,10 +8,9 @@
 🤝 I'm a Graduate Mechanical Engineer, and i have a degree in Data Analytics<br>
 💬 Ask me anything...<br>
 
-
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mario-aramburu) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mario.aramburu09@gmail.com) 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/mario-aramburu) 
+[![email](https://skillicons.dev/icons?i=gmail)](mailto:mario.aramburu09@gmail.com) 
 
 # 💻 Tech Stack:
 [![Web Skills](https://skillicons.dev/icons?i=html,css,js,python,nodejs,express,react,nextjs,nestjs,fastapi)](https://skillicons.dev)  
